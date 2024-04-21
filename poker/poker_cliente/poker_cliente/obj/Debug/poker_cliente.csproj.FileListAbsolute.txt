@@ -1,0 +1,9 @@
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.csproj.AssemblyReference.cache
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.login_form.resources
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.Principal_Logged.resources
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.Principal_LogOut.resources
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.Properties.Resources.resources
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.register_form.resources
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Escritorio\Uni\4rt quatri\SO\poker\poker_cliente\poker_cliente\obj\Debug\poker_cliente.csproj.CoreCompileInputs.cache
